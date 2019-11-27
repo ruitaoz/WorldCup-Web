@@ -453,7 +453,7 @@ Hero section
   max-width: 1386;
   background-color: white;
   height: 80vh;
-    background-image:url("/Users/WB/Desktop/WorlkdCup WebSite/Pattern BG 1.png");
+    background-image:url("./Pattern BG 1.png");
     background-repeat:no-repeat;
   background-size:contain;
 }
@@ -466,7 +466,7 @@ Hero section
   max-width: 1386;
   background-color: white;
   height: 50vh;
-    background-image:url("/Users/WB/Desktop/WorlkdCup WebSite/img/Repeat Grid 1.png");
+    background-image:url("https://ruitaoz.github.io/WorldCup-Web/img/Repeat Grid 1.png");
     background-repeat:no-repeat;
   background-size:contain;
 }

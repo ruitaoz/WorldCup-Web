@@ -844,7 +844,7 @@ Footer section
 }
 
 .footer-widger {
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 }
 
 .footer-widger h2 {
@@ -859,10 +859,15 @@ Footer section
 }
 
 .footer-widger ul li a {
+	display: block;
 	font-size: 16px;
-	display: inline-block;
-	margin-bottom: 13px;
-	opacity: 0.7;
+	color: #ffffff;
+	font-family: "Lato", sans-serif;
+	padding: 0 1px 5px;
+	border-bottom: 2px solid transparent;
+	margin-right: 45px;
+	-webkit-transition: 0.3s;
+	transition: 0.3s;
 }
 
 .about-widget {
